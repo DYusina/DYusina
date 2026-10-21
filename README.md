@@ -1,5 +1,5 @@
 ### Hi, I'm Daria 👋
-Aspiring data / product analyst. [Student of … at …], looking for analytics and DS roles.
+Aspiring data / product analyst. Student of Applied Mathematics and Computer Science in Economics and Management at Saint Petersburg State University of Economics (UNECON), looking for analytics and DS roles.
 
 **Stack:** Python (pandas, scikit-learn, statsmodels, plotly) · SQL (PostgreSQL) · Git
 
